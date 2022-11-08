@@ -2,15 +2,15 @@
 <p align="center">
     <p align="center">
     <a href="https://github.com/alcrb/RandomPasswordGenerator/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/alcrb/RandomPasswordGenerator?color=informational">
+      <img src="https://img.shields.io/github/license/alcrb/Pro-Data-Encryption?color=informational">
     </a>
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/python-v3.11-informational">
     </a>
-    <a href="https://github.com/alcrb/RandomPasswordGenerator">
-    	<img src="https://img.shields.io/github/v/release/alcrb/RandomPasswordGenerator">
+    <a href="https://github.com/alcrb/Pro-Data-Encryption">
+    	<img src="https://img.shields.io/github/v/release/alcrb/Pro-Data-Encryption">
     </a>
-    <img src="https://img.shields.io/github/downloads/alcrb/RandomPasswordGenerator/total?color=important">
+    <img src="https://img.shields.io/github/downloads/alcrb/Pro-Data-Encryption/total?color=important">
   </p>
 </p>
 
