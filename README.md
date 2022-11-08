@@ -11,15 +11,15 @@ CLI to encrypt or decrypt files with only one command
 \___/_/ /_/\___/_/   \__, / .___/\__/  /_/ /_/_/\___/ 
                     /____/_/                          
 
-Encrypt or decrypt files with ONLY ONE COMMAND 
+Encrypt or decrypt files EASILY 
 ----------------------------------------------------------------------
-PARAMETERS
-func:		encrypt
-password:	123456
-file_path:	tests/plain_text.txt
+OPTIONS
+1/ Encrypt
+2/ Decrypt
+3/ Quit
 
 Encrypting ...
-Encrypted file at tests/plain_text.txt.enc
+File Successfully Encrypted
 Execution time: 0.01 seconds                        
 ```
 The _encrypt file_ is a **CLI** for encrypting and decrypting files.
@@ -45,15 +45,15 @@ pip install encrypt-file
 - :lock: Encrypt :lock:
 ```bash
 
-          --func encrypt \
-          --file plain_text.txt \
-          --password 123456
+          File Name or Path File you need to Encrypt :
+          Final File Name (.key),(.enc) :
+          Password :
 ```
 
 - :unlock: Decrypt :unlock:
 ```bash
 
-          --func decrypt \
-          --file plain_text.txt.enc \
-          --password 123456
+          File Name or Path File you need to Decrypt :
+          Final File Name :
+          Password :
 ```
