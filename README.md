@@ -1,6 +1,18 @@
 # :page_with_curl:	_Encrypt File_ :lock: 
-[![Python 3](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/downloads/release/python-381/)
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
+<p align="center">
+    <p align="center">
+    <a href="https://github.com/alcrb/RandomPasswordGenerator/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/alcrb/RandomPasswordGenerator?color=informational">
+    </a>
+    <a href="https://www.python.org/">
+    	<img src="https://img.shields.io/badge/python-v3.11-informational">
+    </a>
+    <a href="https://github.com/alcrb/RandomPasswordGenerator">
+    	<img src="https://img.shields.io/github/v/release/alcrb/RandomPasswordGenerator">
+    </a>
+    <img src="https://img.shields.io/github/downloads/alcrb/RandomPasswordGenerator/total?color=important">
+  </p>
+</p>
 
 CLI to encrypt or decrypt files with only one command
 ```bash
