@@ -1,4 +1,4 @@
-# :page_with_curl:	_Encrypt File_ :lock: 
+# :page_with_curl:	_Pro Data Encryption_ :lock: 
 <p align="center">
     <p align="center">
     <a href="https://github.com/alcrb/RandomPasswordGenerator/blob/master/LICENSE">
