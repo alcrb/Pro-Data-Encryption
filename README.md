@@ -24,10 +24,6 @@ Execution time: 0.01 seconds
 ```
 The _encrypt file_ is a **CLI** for encrypting and decrypting files.
 
-## Why should I use the _encrypt file_?
-- **No Code**: When there is no need to code something you can simply use _encrypt file_.
-- **Abstraction of cryptographic algorithms**: you don't need to know what goes on behind the scenes in _encrypt file_ (but if you want, just see it on github).
-
 ## Requirements
 This project is tested with:
 
